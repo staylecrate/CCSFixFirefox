@@ -12,7 +12,7 @@ Fixes for Firefox &amp; Waterfox
 7. Copy and paste this what is below and save it. If Firefox is open, close and relaunch it.
 
 #PersonalToolbar{  
-  &nbsp;&nbsp;--multirow-bmb-n-rows: 3; /* Control how many rows are shown before scrolling */  
+  &nbsp;&nbsp;--multirow-bmb-n-rows: 3; \/* Control how many rows are shown before scrolling \*/  
   &nbsp;&nbsp;--multirow-bmb-row-margin: 2px; /* Control how much spacing is between rows */  
   &nbsp;&nbsp;max-height: none !important;  
   }  
